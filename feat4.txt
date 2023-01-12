@@ -1,1 +1,3 @@
 Filter feature 4 implemented
+
+Optimised feature 4
